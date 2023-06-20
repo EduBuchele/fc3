@@ -3,6 +3,18 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../FC3-admin-catalogo-de-videos-java" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../FC3-admin-catalogo-de-videos-java" />
+            <option value="$PROJECT_DIR$/../../FC3-admin-catalogo-de-videos-java/application" />
+            <option value="$PROJECT_DIR$/../../FC3-admin-catalogo-de-videos-java/buildSrc" />
+            <option value="$PROJECT_DIR$/../../FC3-admin-catalogo-de-videos-java/domain" />
+            <option value="$PROJECT_DIR$/../../FC3-admin-catalogo-de-videos-java/infrastructure" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="" />
         <option name="modules">
