@@ -1,0 +1,5 @@
+rootProject.name = 'admin-catalago'
+include 'domain'
+include 'application'
+include 'infrastructure'
+
