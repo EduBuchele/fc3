@@ -9,10 +9,12 @@ public class CategoryValidator extends Validator {
     public static final int NAME_MAX_LENGTH = 255;
     public static final int NAME_MIN_LENGTH = 3;
     private final Category category;
+
     public CategoryValidator(final Category aCategory, final ValidationHandler aHandler) {
         super(aHandler);
         this.category = aCategory;
     }
+
     @Override
     public void validate() {
         checkNameConstraints();
