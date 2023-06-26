@@ -2,8 +2,6 @@ package com.admin.catalogo.application.category.create;
 
 import com.admin.catalogo.application.UseCaseTest;
 import com.admin.catalogo.domain.category.CategoryGateway;
-import com.fullcycle.admin.catalogo.application.UseCaseTest;
-import com.fullcycle.admin.catalogo.domain.category.CategoryGateway;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
